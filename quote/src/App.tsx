@@ -53,11 +53,11 @@ function App() {
 
   return loadingOptions ? (
     <div className="App">
-      <header className="App-header">loading...</header>
+      <header className="App-header">Loading...</header>
     </div>
   ) : loadingCost ? (
     <div className="App">
-      <header className="App-header">calculating...</header>
+      <header className="App-header">Calculating...</header>
     </div>
   ) : !submitted ? (
     <div className="App">
@@ -76,7 +76,7 @@ function App() {
     </div>
   ) : (
     <div className="App">
-      <header className="App-header">Estimated cost: {cost}</header>
+      <header className="App-header">Estimated cost: ${cost}</header>
     </div>
   );
 }
