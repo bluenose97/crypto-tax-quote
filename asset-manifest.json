@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/crypto-tax-quote/static/css/main.073c9b0a.css",
+    "main.js": "/crypto-tax-quote/static/js/main.69838e87.js",
+    "static/js/787.297bc9a9.chunk.js": "/crypto-tax-quote/static/js/787.297bc9a9.chunk.js",
+    "static/media/logo.svg": "/crypto-tax-quote/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/crypto-tax-quote/index.html",
+    "main.073c9b0a.css.map": "/crypto-tax-quote/static/css/main.073c9b0a.css.map",
+    "main.69838e87.js.map": "/crypto-tax-quote/static/js/main.69838e87.js.map",
+    "787.297bc9a9.chunk.js.map": "/crypto-tax-quote/static/js/787.297bc9a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.69838e87.js"
+  ]
+}
